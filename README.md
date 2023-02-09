@@ -1,1 +1,1 @@
-shell navigation basics
+shell permission basics
