@@ -1,2 +1,2 @@
 #!/bin/bash 
-0. this sscript is for the hello file 
+0. this script is for the hello file 
