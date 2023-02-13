@@ -1,4 +1,1 @@
 0-hello_world
-hello
-hello.txt
-README.md
